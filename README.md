@@ -21,10 +21,23 @@ Benötigte Bauteile 1-fach:
 - 1x 10k Ohm
 - 1x IRFZ44N
 
+  
+<img width="3000" height="2000" alt="E-Dimmer 1-fach top" src="https://github.com/user-attachments/assets/1e225189-c3e6-435c-b265-df94e81d7128" />
 
-Benötigte Bauteile 1-fach:
+
+Benötigte Bauteile 4-fach:
 - 4x NE555
 - 4x Keramikkondensator 0,1uF (104)
 - 4x 1k Ohm
 - 4x 10k Ohm
 - 4x IRFZ44N
+
+<img width="3000" height="2000" alt="E-Dimmer 4-fach top" src="https://github.com/user-attachments/assets/d7927e29-2f04-4279-ab4e-cfa954109064" />
+
+
+
+## Schaltplan
+<img width="9031" height="5559" alt="1 fach schema" src="https://github.com/user-attachments/assets/a86546a6-0bc2-4b4b-83a6-3cf8e54b22ed" />
+
+
+## Code
