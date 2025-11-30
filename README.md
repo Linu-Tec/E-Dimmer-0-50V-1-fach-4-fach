@@ -13,7 +13,8 @@ Hier ist der Link zu dem [4-fach Dimmer](https://www.pcbway.com/project/sharepro
 Und hier könnt ihr selber [Platinen bestellen](https://pcbway.com/g/Bm3OZF)
 
 
-<img width="1690" height="511" alt="image" src="https://github.com/user-attachments/assets/31d0e658-db62-4b9a-a58e-7c4b9e206d8e" />
+<img width="1690" height="511" alt="PCBWay-logo" src="https://github.com/user-attachments/assets/79d45b36-f621-4545-b546-75d250b6dd2d" />
+
 
 
 
