@@ -43,7 +43,7 @@ Benötigte Bauteile 4-fach:
 
 <img width="3000" height="2000" alt="E-Dimmer 4-fach top" src="https://github.com/user-attachments/assets/d7927e29-2f04-4279-ab4e-cfa954109064" />
 
-
+<img width="1536" height="1024" alt="Part1-Blockdiagramm (HD)" src="https://github.com/user-attachments/assets/8fbd937e-c1c8-45e7-a0b7-d3866d06c01c" />
 
 ## Schaltplan
 <img width="9031" height="5559" alt="1 fach schema" src="https://github.com/user-attachments/assets/a86546a6-0bc2-4b4b-83a6-3cf8e54b22ed" />
